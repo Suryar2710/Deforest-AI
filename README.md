@@ -17,3 +17,8 @@ The objective of this project is to develop a system that can detect deforestati
 • Dashboard and analytics : This component presents the forest data in a graphical format, providing an overview of the satellite images and the related data. It includes tools for analyzing and visualizing data, generating reports, and setting goals.
 • Playground : This is the initial page made specifically just for the users to try the model on their images; we can also use this page to store the users’ uploaded images and their feedback.
 • Overview: A page for reviewing our model’s performance and the data’s characteristics over our datasets.
+
+
+# Dashboard
+
+![image](https://github.com/Suryar2710/Deforest-AI/assets/71628234/b34214bd-6297-4897-945c-8ad3eb8e3401)
